@@ -175,7 +175,7 @@ System.out.println();
 
 Результат работы программы:
 
-```
+```java
 First group: abdcxy
 Second group: z
 First group: a
