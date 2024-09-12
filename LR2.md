@@ -148,7 +148,7 @@ mustang
 
 Следующий пример демонстрирует возможности использования групп, а также собственных и неполных квантификаторов.
 
-```
+```java
 import java.util.regex.*;
 public class Groups {
 public static void main(String[] args) {
