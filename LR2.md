@@ -106,7 +106,7 @@
 
 Следующий пример показывает использование возможностей классов Pattern и Matcher, для поиска, разбора и разбиения строк.
 
-```
+```java
 import java.util.regex.*;
 public class DemoRegular {
 public static void main(String[] args) {
